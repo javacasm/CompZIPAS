@@ -102,6 +102,20 @@ Características clave:
 - `recent_zips.txt`: Archivo generado para almacenar los últimos 5 ZIPs seleccionados por cada `Treeview`.
 - `test1.zip`, `test2.zip`: Archivos ZIP de prueba generados en modo `DEBUG` si no existen.
 
+## Pruebas
+
+Para ejecutar los tests automáticos creados con `unittest`:
+
+```bash
+python -m unittest test_zip_comparator.py
+```
+
+Para ejecutar los tests automáticos con pytest:
+
+```bash
+pip install pytest
+pytest test_zip_comparator_pytest.py -v
+```
 ## Posibles Mejoras
 
 1. **Soporte para otros formatos comprimidos**:
@@ -136,8 +150,6 @@ Si deseas contribuir:
 
 ## Licencia
 
+#TODO
+
 Este proyecto no tiene una licencia explícita definida. Contacta al autor para más información sobre el uso y distribución.
-
-## Contacto
-
-Para reportar errores, sugerir mejoras o solicitar soporte, crea un _issue_ en el repositorio o contacta al equipo de desarrollo.

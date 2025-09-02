@@ -96,8 +96,7 @@ Características clave:
     2025-09-02 10:47:00,010 - INFO - Encontrados 7 archivos en ZIP1, 7 en ZIP2
     2025-09-02 10:47:00,015 - INFO - Total de miembros únicos: 9
     2025-09-02 10:47:00,020 - INFO - Modo DEBUG: Cargados automáticamente test1.zip y test2.zip
-    ```
-    
+    ```   
 
 ## Estructura del Proyecto
 

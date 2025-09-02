@@ -199,8 +199,7 @@ Para crear una batería de tests automáticos para el proyecto "Comparador de ZI
    - Un solo archivo `test_zip_comparator.py` con clases de tests organizadas por funcionalidad.
    - Cada test será independiente, con setup y teardown para evitar efectos secundarios.
 
-#TODO enlace Código de los Tests
-
+[Código de los Tests con unittest](https://raw.githubusercontent.com/javacasm/CompZIPAS/refs/heads/main/codigo/test_zip_comparer_unittest.py)
 
 ### Detalles de los Tests
 
@@ -293,9 +292,8 @@ Para crear una batería de tests automáticos para el proyecto "Comparador de ZI
    - Fixtures para reutilizar configuración (directorio temporal, árboles, etc.).
    - Uso de parametrización para casos variados.
 
-[Código de los Tests con pytest]()
+[Código de los Tests con pytest](https://raw.githubusercontent.com/javacasm/CompZIPAS/refs/heads/main/codigo/test_zip_comparer_pytest.py)
 
-#TODO enlace al código de test con pytest
 ### Detalles de los Tests
 
 1. **Fixtures**:

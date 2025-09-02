@@ -1,6 +1,9 @@
 # CompZIPAS: Comparador de ZIP con Árboles Sincronizados
 
-**Versión**: 0.4.6  
+
+![](./images/Licencia_CC_peque.png) Licencia CC by SA by @javacasm
+ 
+**Versión**: 0.4.5  
 **Última actualización**: 2 de septiembre de 2025
 
 ## Objetivo
@@ -148,8 +151,3 @@ Si deseas contribuir:
 3. Implementa tus cambios y verifica con los ZIPs de prueba.
 4. Envía un pull request con una descripción clara de los cambios.
 
-## Licencia
-
-#TODO
-
-Este proyecto no tiene una licencia explícita definida. Contacta al autor para más información sobre el uso y distribución.
